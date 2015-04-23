@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <sstream>
-
+//Hello GitHub!
 class Display: public IDisplay
 {
 public:
